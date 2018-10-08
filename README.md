@@ -9,4 +9,4 @@
 
 
 
-## build network with keras
+## build network using Keras
